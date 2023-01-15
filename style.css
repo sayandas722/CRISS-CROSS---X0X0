@@ -20,6 +20,10 @@ nav ul{
     list-style-type:none ;
 }
 
+nav ul .developer{
+    text-align:right;
+}
+
 .abou{
 
     margin:15px;
